@@ -4,13 +4,6 @@ Hi 👋 I'm Togrul Garazade <img src="https://cdn.iconscout.com/icon/free/png-25
 
 ## Full-Stack Developer | .NET Core | HTML, CSS, JS
 My name is Togrul. I am 20 years old. I studied programming at Code Academy in 2021.
-Gained knowledge on 
-
-HTML          C#
-CSS(SASS)     .Net Core 
-JS            MSSQL
-JQuery
-
 I work on myself to improve my knowledge every day.
 
 * 🌍  I'm based in Baku, Azerbaijan
