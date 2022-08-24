@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Ismayil Mohsumov <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" width="36" height="36" alt="CSharp" />
+Hi 👋 I'm Togrul Garazade. <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" width="36" height="36" alt="CSharp" />
 ============================
 
 ## Full-Stack Developer | .NET Core | HTML, CSS, JS
