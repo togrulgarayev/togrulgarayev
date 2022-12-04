@@ -17,4 +17,4 @@ I work on myself to improve my knowledge every day.
 - 💽 MSSQL
 
 ## Contact
-- [@togrulgarayev](https://www.linkedin.com/in/togrulgarazade/) on LinkedIn
+- [@togrulgarazade](https://www.linkedin.com/in/togrulgarazade/) on LinkedIn
