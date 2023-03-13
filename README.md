@@ -5,8 +5,7 @@ Hi 👋 I'm Togrul Garazade <img src="https://cdn.iconscout.com/icon/free/png-25
 ## Full-Stack Developer | .NET Core | HTML, CSS, JS
 Since 2019, I am interested in various fields of IT. After 
 exploring areas like Hardware and Software, I decided to focus 
-on programming. 
-In 2020, I started learning Front-End Programming 
+on programming.<br> In 2020, I started learning Front-End Programming 
 for the first time as Self Study. I studied Full-Stack Programming 
 at Code Academy in 2021. I am constantly updating my skills in this 
 field. I am currently developing various types of websites over .Net (MVC).
