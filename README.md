@@ -7,7 +7,7 @@ Since 2019, I am interested in various fields of IT. After
 exploring areas like Hardware and Software, I decided to focus 
 on programming.<br> In 2020, I started learning Front-End Programming 
 for the first time as Self Study. I studied Full-Stack Programming 
-at Code Academy in 2021. I am constantly updating my skills in this 
+at Code Academy in 2021.<br>I am constantly updating my skills in this 
 field. I am currently developing various types of websites over .Net (MVC).
 
 * 🌍  I'm based in Baku, Azerbaijan
